@@ -1,5 +1,28 @@
 # Updates
 
+## 12 December 2024
+
+??? "Practiced SQL on leetcode"
+    - Practiced SQL questions on JOINS, AGGREGATES and SUBQUERIES from leetcode's SQL 50 list.
+    - I have been feeling more and more confident and comfortable writing SQL queries as I continue solving leetcode SQL problems.
+
+??? "Enrolled on to Udemy courses to prepare for various certifications"
+    - I have gained a taste of what data engineering is with into to various technologies such as Databricks, Snowflake, PySpark, Tableau, Google BigQuery, Apache Airflow and more.
+    - And have decided to prepare for a few certifications such as:
+        - SQL certification
+        - Google Cloud Certified Data Engineer
+        - Databricks Certified Data Engineer
+
+??? "Explored Databricks community edition"
+    Signed up for and explored Databricks community edition and tried out spark cluster hosted by Databricks.
+
+??? "Read about Data Lakehouse"
+    As part of my exploration of Databricks, I read about Data Lakehouse, gaining insights on why they exist, what problems they solve and what features they offer.
+
+> Also create a simple website to update daily about my learnings
+
+---
+
 ## 11 December 2024
 
 ??? "Practiced some more SQL on leetcode"
