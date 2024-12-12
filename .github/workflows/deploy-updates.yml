@@ -28,7 +28,7 @@ jobs:
 
     # Step 4: Build the MkDocs site
     - name: Build MkDocs site
-      run: mkdocs build --site-dir site
+      run: mkdocs build --config-file updates_website/mkdocs.yml --site-dir site
 
     # Step 5. Deploy to GitHub Pages
     - name: Deploy to GitHub Pages
