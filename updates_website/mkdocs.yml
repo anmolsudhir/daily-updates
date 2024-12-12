@@ -1,0 +1,9 @@
+site_name: Daily Updates - Anmol Sudhir 
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details:
+  - toc:
+      permalink: true
