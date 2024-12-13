@@ -1,5 +1,28 @@
 # Updates
 
+## 13 December 2024
+
+??? "Practiced SQL - leetcode"
+    Practiced more SQL from leetcode's SQL 50 list. Trying to complete the list by next week.
+
+??? "Explored a DE project on github"
+    - Discovered and explored a data engineering [project](https://github.com/nadyinky/ny_taxi_rides) on GitHub.
+    - The project works on the NYC Yellow and Green Taxi dataset.
+    - The stack for the project was
+        - Apache Airflow
+        - Google BigQuery
+        - dbt
+        - Google Looker for BI tasks.
+    - I will clone this project and try to run it to learn more from it.
+
+??? "Studied from the Udemy courses for certifications"
+    - Watched and followed the tutor for hands on practice on the udemy courses that I've enrolled in to.
+    - Re-read and understood the basics of PySpark, Databricks and more
+
+> Did not do a lot today, but would cover up for some things this weekend.
+
+---
+
 ## 12 December 2024
 
 ??? "Practiced SQL on leetcode"
