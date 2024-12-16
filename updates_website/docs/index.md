@@ -1,5 +1,28 @@
 # Updates
 
+## 16 December 2024
+
+??? "Practiced *Window Functions of MySQL*"
+    - Learnt and practiced MySQL window functions from the udemy the course.
+
+??? "Learnt about *MS ADO, Jira* through a workshop organized by Tredence"
+    - Attended a workshop organized by Tredence Agile CoE team on work management tools such as Jira, Azure DevOps.
+    - Leant about MS ADO to manage agile workflow, and got a demo on how to use MS ADO.
+    - I have experience with Jira so I was able to grasp all of the concepts that was taught.
+
+??? "Attended *KT session on Tableau by Sanjiv Prasath*"
+    - Sanjiv Prasath organized a KT session on Tableau. 
+    - He introduced Tableau with a sample dataset and taught concepts such as:
+        - Connecting/loading dataset in different ways.
+        - Checking dataset schema, data types of coloums, dimentions, measures, strings and more.
+        - Creating different charts using the dataset.
+        - difference between logical and physical layer of Tableau.
+
+??? "Practiced *Problems on SQL Subqueries* on leetcode"
+    Practiced SQL subqueries that included joins, aggregate functions and more.
+
+---
+
 ## 13 December 2024
 
 ??? "Practiced SQL - leetcode"
