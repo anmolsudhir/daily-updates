@@ -1,5 +1,21 @@
 # Updates
 
+## 17 December 2024
+
+??? "Continued learning MySQL on Udemy"
+    Continued and followed along with the MySQL udemy course.
+
+??? "Learnt date, time, datetime data types of MySQL"
+    - Got a complete guide on how to manipulate date-time data type in MySQL.
+    - Learnt how to format, find range, calculate difference between date data type.
+
+??? "Practiced SQL on leetcode"
+    Solved 4 more SQL problem on the Leetcode's SQL 50 list
+
+> I've been learning SQL to get the [MySQL certification](https://education.oracle.com/mysql-80-database-developer-oracle-certified-professional/trackp_MYSQLPRG80OCP) from Oracle. 
+
+---
+
 ## 16 December 2024
 
 ??? "Practiced *Window Functions of MySQL*"
