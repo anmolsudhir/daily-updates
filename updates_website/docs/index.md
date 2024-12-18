@@ -1,5 +1,37 @@
 # Updates
 
+## 18 December 2024
+
+??? "Solved more problems from leetcode SQL 50"
+    - Solved the following SQL problems:
+        - [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50)
+        - [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50)
+??? "Read about InnoDB Locking and concurrency control mechanisms"
+    - Learnt about locking mechanisms such as:
+        - Optimistic and Pessimistic locking
+        - 2-Phase Locking
+        - Shared Locks and Exclusive locks
+        - Row level, table level locking
+        - Concurrency control using Transactions
+
+??? "Learnt hands-on Databricks from Udemy"
+    - Learnt Databricks from Udemy course I've enrolled in to prepare for Databricks Associate Data Engineer.
+    - Completed 6 lessons on Databricks using Databricks Community edition.
+
+??? "Learnt Tableau from Udemy"
+    Learnt and followed along with Udemy course for Tableau.
+
+??? "Attended the 2nd Tableau KT session"
+    - Attended 2nd Tableau KT session organized by Sanjiv.
+    - Learnt concepts such as:
+        - Datatypes, difference between continuous and discrete datatypes. 
+        - Multi axes plots.
+        - Worksheet basics, workbooks and more.
+        - Constant, Average, Forecast lines.
+        - Conversion between discrete and continuous datatypes.
+
+---
+
 ## 17 December 2024
 
 ??? "Continued learning MySQL on Udemy"
