@@ -1,5 +1,20 @@
 # Updates
 
+## 19 December 2024
+
+??? "Created a visualization with Tableau"
+    - Completed the exercise given by Sanjiv yesterday to create a "tree" like visualization of a sample datasets.
+    - Created a dual axes visualization by making and using calculated fields.
+    - One axis was represented as Bars and another as Circle to make the graph look like "Tree"
+
+??? "Revised PySpark from Udemy course."
+    - Revisited PySpark basics and refreshed the concepts.
+
+??? "Continued learning hands-on Databricks from Udemy"
+    - Completed 3 more lessons on Databricks using Databricks Community edition.
+
+---
+
 ## 18 December 2024
 
 ??? "Solved more problems from leetcode SQL 50"
