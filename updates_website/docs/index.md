@@ -1,5 +1,20 @@
 # Updates
 
+## 20 December 2024
+
+??? "Completed PySpark crash course."
+    ![PySpark Udemy Certificate](img/PySpark.jpg)
+
+??? "Read in depth about Data Lakehouse with Delta Lake"
+    - Read about the architecture of Delta lake from the published paper of [Delta Lake](https://www.databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf).
+    - Read about how it organizes data, how it maintains logs and how it enables ACID transactions on Data Lakes.
+    - Read about how it optimizes the querying speed.
+
+??? "Continued Tableau Course on Udemy"
+    - Continued with learning Tableau from Udemy. Completed all the introductory lessons.
+
+---
+
 ## 19 December 2024
 
 ??? "Created a visualization with Tableau"
