@@ -1,5 +1,58 @@
 # Updates
 
+## 26 December 2024
+
+??? "Attended Tableau session with Sanjiv"
+    - Learnt about filters in detail.
+    - Learnt about how continuous, discrete & measures, dimensions work with filters.
+
+??? "Completed 2 Parts of the Data warehousing Udemy course"
+    - Learnt about the basics of data warehouse.
+    - Why are data warehouse needed, what are the it's basic rules.
+    - What are the differences between data warehouse, data lake and data visualization.
+
+??? "Learnt GCP from udemy course"
+    - Learnt about GCP's compute options.
+    - How to setup and when to use.
+
+---
+
+## 24 December 2024
+
+??? "Practiced SQL on Leetcode"
+    - Practiced SQL for topics such as:
+        - Subqueries
+        - String Functions and Regex
+
+??? "Attended Tableau session with Sanjiv"
+    - Learnt about Continuous and discrete data types in detail
+    - Learnt about how Continuous and discrete datatypes work with dimensions and measures.
+
+??? "Practiced Pandas"
+    - Practiced pandas on concepts such as filtering, data cleaning and more
+
+??? "Had a tech call with Debargho for the project"
+    - I was asked mainly about SQL and Python
+    - Debargho suggested some Undemy courses on data warehousing and GCP.
+
+---
+
+## 23 December 2024
+
+??? "Completed 6 more lessons on Databricks Udemy course."
+    - Learnt with hands-on experience about:
+        - Delta Lake's storage structure
+        - Features of delta lake like ACID transactions, locking, time travel and more.
+    - Practiced PySpark with Databricks. Explored Tables, Spark jobs and how it executes.
+
+??? "Practiced SQL on Leetcode"
+    - Practiced SQL for topics such as:
+        - Advanced Joins
+        - Aggregate Functions
+        - Sorting and Grouping
+
+---
+
 ## 20 December 2024
 
 ??? "Completed PySpark crash course."
